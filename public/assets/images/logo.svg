@@ -1,0 +1,9 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle id="Emblem" cx="32" cy="32" r="32" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_756_2986" transform="scale(0.02)"/>
+</pattern>
+<image id="image0_756_2986" data-name="Galileo-FX-Logo-Web.png" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADuUlEQVRoge2ZP0gjWRzHv28mN5MoK8ZVlD0sVrxFEGyWc0BwvTJNFEsPiyOwhfYqXLMQZIuz8Ni10itstNhqCsVU1jLFnTYHCWIKA8NKSE7NXGZy+n5XLLsY82dmkozOLvnCr3l5f36f/H7vvd/MMACEb0DCYzvQKrVB/KY2iN/UBvGbAo/twF0xEfj5d+CHV+Xt/+aB336qP9ZXEaFb4MMy8DEJBJ98su5nn8xODB7f7IwxMMbAOW9o/Ju/ALkT+PVF/X4tTS1BEDA5OYloNApFUTA8PIze3l4AQC6Xw+npKTRNw/7+Pg4PDxuGqyVq1kRRpFgsRqlUijjnZCfOOZ2dndHCwgIFAoG6c7/eAb1NOfKjOYiRkRHSNM0RQDWg4+NjGhsbqzn/dyHQL394DBKJROjy8tI1wH0ZhkGzs7O1Ix6w96XhUysSiUBVVXR1dVX9nYhQKpWQyWSQyWRgWRaIqp8roVAIiqLUXOv2xplPDaVTrUgUCgXa2NigiYkJkmX5yxhJkmh8fJzW19fp6uqqLL3W1taa3qeuQURRJE3TquZ7IpGgwcFB2zkGBgZIVdVWQrgHicViFRubc06bm5skiqLjeRhjND093SoIdyCCIFAqlaqIRiKRcAXhkTnvPDU1VRGNQqHgKJ28NlenVjQaBWOsrG17exvn5+dupvFErkqU+0ckEWF3d9d23NzcHATB3UlvGAZUVXU1xnH4dF0vSyvLssqO2FpmWZazm/GOrq+vSRCE1qeWIAhfCsDPuri4gGVZrv41p+ro6IAsy477++p55L7u78d6cgzCOUculytr6+vrgyRJzj1zoWKxCNM0Hfd3tdkXFxfR09NT1ibLMkqlku24ept9aGgIKysrZRFIp9Oun1ce/Q6Ix+MVm31ra8u7C9ELC4fDlM1mK0qemZmZrwtkZ2enolrQdZ0kSfp6QFZXV6sWoEtLS43M9zjpVC0SRETJZJKCwaB/QRhjNDo6SvF4nLLZbFUI0zRJUZRG1/Ae4uTkhPL5fN0XFDc3NzQ/P9/MOvU7iC0Asau1TNNsFsIe5H13P4UY8wSEc07JZLKZdHIOctz/nD48/b6lIJxz0nWdlpeXG93YFeaoRHkpBZ10qykigmEYSKfTODo6wt7eHg4ODmxLGzd6kM8K4XAYlmW1/F3vXTkCecIE/Nn/HADw938WXud1FGu8bKumYrHYmHcuZFvG/8Nvkee36GQMnYzhRymId939/vpChAf4PvJQ8vUTohu1QfymNojf1Abxm/4H455axZP7g6sAAAAASUVORK5CYII="/>
+</defs>
+</svg>
